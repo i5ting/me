@@ -1,19 +1,9 @@
 # me
 
-##  
-![]()
-## 2f738bd4b31c870172a9bd55217f9e2f0708ff62.jpg 
-![2f738bd4b31c870172a9bd55217f9e2f0708ff62.jpg](2f738bd4b31c870172a9bd55217f9e2f0708ff62.jpg)
-## LICENSE 
-![LICENSE](LICENSE)
-## README.md 
-![README.md](README.md)
 ## justjavac大神.jpg 
 ![justjavac大神.jpg](justjavac大神.jpg)
-## npm-debug.log 
-![npm-debug.log](npm-debug.log)
-## package.json 
-![package.json](package.json)
+## railsgirl.jpg 
+![railsgirl.jpg](railsgirl.jpg)
 ## 天津gdg嘉宾.jpg 
 ![天津gdg嘉宾.jpg](天津gdg嘉宾.jpg)
 ## 天津gdg全体照片.jpg 
