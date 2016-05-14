@@ -6,6 +6,8 @@
 ![2016-04-21-架构师群-2.jpg](2016-04-21-架构师群-2.jpg)
 ## 2016-04-21-架构师群.jpg 
 ![2016-04-21-架构师群.jpg](2016-04-21-架构师群.jpg)
+## Segmentfault天津站5月7日.jpg 
+![Segmentfault天津站5月7日.jpg](Segmentfault天津站5月7日.jpg)
 ## justjavac大神.jpg 
 ![justjavac大神.jpg](justjavac大神.jpg)
 ## railsgirl.jpg 
