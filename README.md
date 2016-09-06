@@ -24,6 +24,10 @@
 ![2016-05-21-live.nodejs.org-8.jpg](2016-05-21-live.nodejs.org-8.jpg)
 ## Segmentfault天津站5月7日.jpg 
 ![Segmentfault天津站5月7日.jpg](Segmentfault天津站5月7日.jpg)
+## jsconf2016-2.jpg 
+![jsconf2016-2.jpg](jsconf2016-2.jpg)
+## jsconf2016.jpg 
+![jsconf2016.jpg](jsconf2016.jpg)
 ## justjavac大神.jpg 
 ![justjavac大神.jpg](justjavac大神.jpg)
 ## railsgirl.jpg 
