@@ -22,6 +22,8 @@
 ![2016-05-21-live.nodejs.org-7.jpg](2016-05-21-live.nodejs.org-7.jpg)
 ## 2016-05-21-live.nodejs.org-8.jpg 
 ![2016-05-21-live.nodejs.org-8.jpg](2016-05-21-live.nodejs.org-8.jpg)
+## 2016开源年会.jpg 
+![2016开源年会.jpg](2016开源年会.jpg)
 ## Segmentfault天津站5月7日.jpg 
 ![Segmentfault天津站5月7日.jpg](Segmentfault天津站5月7日.jpg)
 ## jsconf2016-2.jpg 
