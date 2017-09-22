@@ -34,15 +34,15 @@
 ![justjavac大神.jpg](justjavac大神.jpg)
 ## railsgirl.jpg 
 ![railsgirl.jpg](railsgirl.jpg)
-## 天津gdg嘉宾.jpg 
-![天津gdg嘉宾.jpg](天津gdg嘉宾.jpg)
 ## 天津gdg全体照片.jpg 
 ![天津gdg全体照片.jpg](天津gdg全体照片.jpg)
-## 野狗vip.jpg 
-![野狗vip.jpg](野狗vip.jpg)
+## 天津gdg嘉宾.jpg 
+![天津gdg嘉宾.jpg](天津gdg嘉宾.jpg)
 ## 寇云大神.jpg 
 ![寇云大神.jpg](寇云大神.jpg)
 ## 校长李庆丰.jpg 
 ![校长李庆丰.jpg](校长李庆丰.jpg)
+## 野狗vip.jpg 
+![野狗vip.jpg](野狗vip.jpg)
 ## 野狗音乐节.jpg 
 ![野狗音乐节.jpg](野狗音乐节.jpg)
